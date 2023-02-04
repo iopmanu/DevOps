@@ -45,7 +45,7 @@
 * Положить файл nginx.conf по пути ./nginx/nginx.conf (это понадобится позже)
 ![screen](https://sun9-80.userapi.com/impg/3-xfK_EagKsxPqNM7Q4Bf0WySgiKkKqHGmYxMA/uZP9k-Kz80s.jpg?size=1285x379&quality=96&sign=ce6cb78b41f9ba0a976793ba9b1c92e4&type=album)
 
-## Свой докер
+## Part 4. Свой докер
 * Cобирает исходники мини сервера на FastCgi из Части 3
 * Запускает его на 8080 порту
 * Копирует внутрь образа написанный ./nginx/nginx.conf
